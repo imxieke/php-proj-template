@@ -1,2 +1,2 @@
-# php-web-template
-PHP Web Template
+# php Project Template
+php Project Template

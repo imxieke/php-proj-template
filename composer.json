@@ -1,9 +1,9 @@
 {
-    "name": "imxieke/php-web-template",
+    "name": "imxieke/php-proj-template",
     "description": "PHP Project Template",
     "type": "project",
     "license": "MIT",
-    "homepage": "https://github.com/imxieke/php-web-template",
+    "homepage": "https://github.com/imxieke/php-proj-template",
     "keywords": [
         "php",
         "project",
